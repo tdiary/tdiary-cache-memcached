@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Tdiary::Cache::Memcached::VERSION
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["shibata.hiroshi@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{tDiary cache with memcached}
+  spec.description   = %q{tDiary cache with memcached}
   spec.homepage      = ""
   spec.license       = "MIT"
 
