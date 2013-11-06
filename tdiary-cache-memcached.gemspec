@@ -1,11 +1,7 @@
 # coding: utf-8
-lib = File.expand_path('../lib', __FILE__)
-$LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'tdiary/cache/memcached/version'
-
 Gem::Specification.new do |spec|
   spec.name          = "tdiary-cache-memcached"
-  spec.version       = Tdiary::Cache::Memcached::VERSION
+  spec.version       = "0.0.1"
   spec.authors       = ["SHIBATA Hiroshi"]
   spec.email         = ["shibata.hiroshi@gmail.com"]
   spec.summary       = %q{tDiary cache with memcached}
