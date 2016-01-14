@@ -4,17 +4,13 @@ memcached adapter for tDiary cache
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your tDiary's Gemfile.local:
 
     gem 'tdiary-cache-memcached'
 
 And then execute:
 
     $ bundle
-
-Or install it yourself as:
-
-    $ gem install tdiary-cache-memcached
 
 ## Contributing
 
